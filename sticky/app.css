@@ -1,0 +1,31 @@
+body{
+	  margin: 0 auto;
+	}
+.head {
+	height:100px;
+	min-height: 100px;
+	background: #e7356f;
+}
+.main {
+	display: flex;
+	flex-direction: row;
+
+}
+.menu {
+	height: 200px;
+	background: #d9d9d9;
+	margin: 11px;
+}
+.left {
+	border-right: 1px solid #d9d9d9;
+	width: 20%;
+	min-width: 20%;
+}
+
+.right {
+    width: 80%;
+	min-width: 80%;
+	height: 1600px;
+	min-height: 1600px;
+	background: #f0f0f0;
+}
